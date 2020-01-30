@@ -1,7 +1,7 @@
 ---
 title: test
 tags: [快乐,幸福]
-categories: [答疑释惑]
+categories: [快乐]
 ---
 这就是测试内容...11122233344455556666777788889991010101011111111121212121313141414==
 ![avatar](http://static.runoob.com/images/runoob-logo.png)
